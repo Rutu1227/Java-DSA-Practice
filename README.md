@@ -1,2 +1,11 @@
 # Java-DSA-Practice
-My Java coding practice from HackerRank 
+This repository contains my Java coding practice from HackerRank.
+
+Topics Covered
+- Arrays
+- Strings
+- Recursion
+- Sorting
+
+Language
+Java
