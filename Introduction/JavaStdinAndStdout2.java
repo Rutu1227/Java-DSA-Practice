@@ -1,0 +1,18 @@
+import java.util.*;
+
+public class Solution 
+{
+    public static void main(String args[]) 
+    {
+        Scanner s = new Scanner(System.in);
+        
+        int a = s.nextInt();
+        double b = s.nextDouble();
+        s.nextLine(); 
+        String c = s.nextLine();
+        
+        System.out.println("String: " + c);
+        System.out.println("Double: " + b);
+        System.out.println("Int: " + a);
+    }
+}
