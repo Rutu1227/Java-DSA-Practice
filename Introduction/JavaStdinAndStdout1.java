@@ -1,3 +1,7 @@
+// Problem: Java Stdin And Stdout I
+// Platform: HackerRank
+// Topic: Introduction
+
 import java.util.*;
 
 class Solution 
